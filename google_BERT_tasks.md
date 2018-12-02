@@ -39,7 +39,7 @@ neutral with respect to the first one.
 
 + a collection of 100k crowdsourced question/answer pairs. Given a question and a paragraph from Wikipedia containing the answer, the task is to predict the answer text span in the paragraph.
 
-10. CoNLL 2003 NER dataset
+10. CoNLL 2003 NER dataset (Got)
 
 + consists of 200k training words which have been annotated as Person, Organization, Location, Miscellaneous or other.
 
